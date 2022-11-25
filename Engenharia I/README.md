@@ -18,10 +18,10 @@
 
 Coletar os requisitos funcionais e não funcionais do sistema.
 
-### Sistema Escolhido:
+# Sistema Escolhido:
 > > Sitema de cadastro de clientes facilitando para a empresa o armazenamento das informções essenciais do cliente como: o quanto deve, endereço, contato. 
 
-### Requisitos coletados
+# Requisitos coletados
 > > Funcionais:
 - Usuário acessa a plataforma através de nome de usuário e senha
 - Usuário poderá cadastra novos clientes entrando com Nome, endereço, telefone e divida.
