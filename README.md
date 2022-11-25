@@ -32,14 +32,17 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 ### Diagrama de Caso de Uso
 
+![Diagramadecasodeuso](https://user-images.githubusercontent.com/85517447/203965416-1b0a8449-9f94-47a7-9362-6828afff09f2.png)
 
 
 ### Diagrama UML(Unified Modeling Language)
 
+![Diagramauml](https://user-images.githubusercontent.com/85517447/203965427-4ee22105-c2ee-43d5-9ab3-c61e32f94af4.png)
 
 
 ### Diagrama de Entidade de Relacionamento(DER)
 
+![DER](https://user-images.githubusercontent.com/85517447/203965434-7eabfb5f-2c1a-4bc5-b78f-ab622a3e1cba.png)
 
 
 # Imagens do software
