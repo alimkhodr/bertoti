@@ -30,17 +30,17 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 - Interface simples e fácil de uso.
 - Compatibilidade com qualquer servidor.
 
-### Diagrama de Caso de Uso
+# Diagrama de Caso de Uso
 
+![Diagramadecasodeuso](https://user-images.githubusercontent.com/85517447/203966103-a2287767-28ef-48e3-98e1-3f63f8eb27c0.png)
 
+# Diagrama UML(Unified Modeling Language)
 
-### Diagrama UML(Unified Modeling Language)
+![Diagramauml](https://user-images.githubusercontent.com/85517447/203966124-a467f1dc-ef1c-4385-b53f-dbef3a993537.png)
 
+# Diagrama de Entidade de Relacionamento(DER)
 
-
-### Diagrama de Entidade de Relacionamento(DER)
-
-
+![DER](https://user-images.githubusercontent.com/85517447/203966144-136831b9-1eef-4a95-938d-2f618b40de97.png)
 
 # Imagens do software
 
