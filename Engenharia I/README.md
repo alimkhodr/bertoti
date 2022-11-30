@@ -50,15 +50,19 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 > Login:
 
+![tela1](https://user-images.githubusercontent.com/85517447/204932537-b53ecb59-1334-4f80-b454-04175f5107f8.png)
 
 > Tabela: 
 
+![tela2](https://user-images.githubusercontent.com/85517447/204932548-a79f60d8-4609-4898-aceb-c1f8a9e4af45.png)
 
 > Registro: 
 
+![tela3](https://user-images.githubusercontent.com/85517447/204932561-d4dda1bd-9a7b-4e72-8f7f-e16ecbce184d.png)
 
 > Configuração:
 
+![tela4](https://user-images.githubusercontent.com/85517447/204932592-b3b2f7fb-fbb5-42a2-86bf-03cdfec5e7ba.png)
 
 # Video do software
 
