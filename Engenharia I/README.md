@@ -64,9 +64,6 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 ![tela4](https://user-images.githubusercontent.com/85517447/204932592-b3b2f7fb-fbb5-42a2-86bf-03cdfec5e7ba.png)
 
-# Video do software
-
-
     
    
 
