@@ -1,2 +1,2 @@
 # Bertoti
- Repositório destinado as aulas de engenharia do professor Giuliano
+ Repositório destinado as aulas do professor Giuliano
