@@ -13,5 +13,5 @@ UPDATE/PUT
 DELETE/DELETE
 ![image](https://github.com/alimkhodr/bertoti/assets/85517447/7a7b9a68-8027-43f6-910e-9e879d369abf)
 
-
-
+GIF PROJETO
+![student](https://github.com/alimkhodr/bertoti/assets/85517447/6b4edd75-15ee-4eae-bd54-4d6d4d94a680)
