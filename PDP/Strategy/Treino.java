@@ -24,11 +24,7 @@ public class Funcionario {
     }
 
     public void aplicarTreinamento() {
-        if (treino != null) {
             treino.treinar();
-        } else {
-            System.out.println("Nenhum treino definido.");
-        }
     }
 
     public static void main(String[] args) {
