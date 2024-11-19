@@ -7,46 +7,46 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Cadastro e busca de estudantes</h1>
+    <h1>Cadastro e busca de estudantes</h1>
 
-        <div class="add-student-div">
-            <h2>Adicionar Estudante</h2>
-            <form id="add-student-form">
-                <input type="text" id="student-name" placeholder="Nome do Estudante" required>
-                <button type="submit">Adicionar</button>
-            </form>
-        </div>
-
-        <h2>Buscar Estudante</h2>
-        <form id="get-student-form">
-            <input type="text" id="student-id" placeholder="ID do Estudante" required>
-            <button type="submit">Buscar</button>
-        </form>
-
-        <div id="student-details"></div>
-
-        <div class="student-list-div">
-            <h2>Lista de Estudantes</h2>
-            <ul id="student-list"></ul>
-        </div>
-
-        <h2>Deletar Estudante</h2>
-        <form id="delete-student-form">
-            <label for="delete-student-id">ID:</label>
-            <input type="text" id="delete-student-id" required>
-            <button type="submit">Deletar</button>
-        </form>
-
-        <h2>Atualizar Estudante</h2>
-        <form id="update-student-form">
-            <label for="update-student-id">ID:</label>
-            <input type="text" id="update-student-id" required>
-            <label for="update-student-name">Nome:</label>
-            <input type="text" id="update-student-name" required>
-            <button type="submit">Atualizar</button>
+    <div class="add-student-div">
+        <h2>Adicionar Estudante</h2>
+        <form id="add-student-form">
+            <input type="text" id="student-name" placeholder="Nome" required>
+            <button type="submit">Adicionar</button>
         </form>
     </div>
-    <script src="index.js"></script>
+
+    <h2>Buscar por ID</h2>
+    <form id="get-student-form">
+        <input type="text" id="student-id" placeholder="ID" required>
+        <button type="submit">Buscar</button>
+    </form>
+
+    <div id="student-details"></div>
+
+
+    <div class="student-list-div">
+        <h2>Lista de Estudantes</h2>
+        <ul id="student-list"></ul>
+    </div>
+
+    <h2>Deletar Estudante</h2>
+    <form id="delete-student-form">
+        <label for="delete-student-id">ID:</label>
+        <input type="text" id="delete-student-id" required>
+        <button type="submit">Deletar</button>
+    </form>
+
+    <h2>Atualizar Estudante</h2>
+    <form id="update-student-form">
+        <label for="update-student-id">ID:</label>
+        <input type="text" id="update-student-id" required>
+        <label for="update-student-name">Nome:</label>
+        <input type="text" id="update-student-name" required>
+        <button type="submit">Atualizar</button>
+    </form>
+
+<script src="index.js"></script>
 </body>
 </html>
